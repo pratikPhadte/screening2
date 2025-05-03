@@ -21,7 +21,7 @@ ros2 run turtlesim turtle_teleop_key
 
 7. Enter below commnand
 ```
-ros2 node infor <node_name>
+ros2 node info <node_name>
 ```
 8. A few questions
 
